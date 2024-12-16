@@ -11,3 +11,7 @@ cout<<"hello world!";
 return 0;
 }
 ```
+
+- [x] turn off the light
+- [ ] turn on the light
+- [x] fix these bugs  
